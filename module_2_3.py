@@ -9,5 +9,5 @@ while x < len(my_list):
         continue
     else:
         x = x + 1
-        continue
+        break
 
